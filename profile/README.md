@@ -1,5 +1,7 @@
 # Modern School <span style="color:red;"></span>
 
+<img align="right" src="https://raw.githubusercontent.com/Modern-School/.github/main/assets/Logo.gif" width="100px">
+
 *Modern School* is a Hacknet Extension. 
 
 This extension uses `git` for source code management, and the repository is placed on Github. 
